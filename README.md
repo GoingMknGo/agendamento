@@ -8,7 +8,7 @@ Feito utilizando as seguintes tecnologias
 
 A escolha das ferramentas e tecnologias foi feita por conta do gosto pessoal, escolhi ferramentas com as quais eu já estou acostumado a trabalhar, pois creio que assim a entrega seria muito melhor.
 
-Meu maior desafio nesse projeto foi desenvolver novamente um front-end, e com um framework que eu nunca havia me interessado/trabalhado, a API ficou pronta em menos de 1 hora, e embora rápido, ainda sim é desenvolvê-la minha parte favorita do projeto.
+Meu maior desafio nesse projeto foi desenvolver novamente um front-end, e com um framework que eu nunca havia me interessado/trabalhado, a API ficou pronta em menos de 1 hora, e embora rápido, desenvolvê-la ainda assim foi minha parte favorita nesse projeto.
 
 Em suma, estou satisfeito com o resultado, tanto como entrega como por satifação pessoal, foi um desafio legal de se fazer e conseguir adaptá-lo a rotina foi algo difícil, mas gratificante. Espero que gostem do resultado tanto quanto eu gostei de desenvolver.
 
