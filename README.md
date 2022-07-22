@@ -12,7 +12,7 @@ Para a execução do projeto siga os seguintes passos:
 
 1 - Baixe o projeto e abra-o utilizando o IntelliJ Idea e execute o mesmo;
 
-2 - Baixe o front-end do projeto e execute-o no link `https://github.com/GoingMknGo/agendamento-front` com o comando `npm run serve` após subir a API;
+2 - Baixe o front-end do projeto no link `https://github.com/GoingMknGo/agendamento-front` e execute-o com o comando `npm run serve` após subir a API;
 
 `A API estará rodando na porta 8080 e o front na porta 8081`
 
