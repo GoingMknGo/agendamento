@@ -6,7 +6,11 @@ Feito utilizando as seguintes tecnologias
 - IntelliJ
 - Visual Studio Code
 
-A escolha das ferramentas e tecnologias foi feita única e exclusivamente por questão de gosto pessoal e com o que eu já estou acostumado a trabalhar, pois creio que assim a entrega seria muito melhor.
+A escolha das ferramentas e tecnologias foi feita por conta do gosto pessoal, escolhi ferramentas com as quais eu já estou acostumado a trabalhar, pois creio que assim a entrega seria muito melhor.
+
+Meu maior desafio nesse projeto foi desenvolver novamente um front-end, e com um framework que eu nunca havia me interessado/trabalhado, a API ficou pronta em menos de 1 hora, e embora rápido, ainda sim é desenvolvê-la minha parte favorita do projeto.
+
+Em suma, estou satisfeito com o resultado, tanto como entrega como por satifação pessoal, foi um desafio legal de se fazer e conseguir adaptá-lo a rotina foi algo difícil, mas gratificante. Espero que gostem do resultado tanto quanto eu gostei de desenvolver.
 
 Para a execução do projeto siga os seguintes passos:
 
